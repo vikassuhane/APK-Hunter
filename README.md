@@ -45,14 +45,14 @@ Exported Receivers
 
 
 
-📦 Installation
+📦 **Installation**
 
 git clone https://github.com/vikassuhane/APK-Hunter.git
 
 cd APK-Hunter
 
 
-🧠 Usage
+🧠 **Usage**
 
 python APK-Hunter.py <apk>
 

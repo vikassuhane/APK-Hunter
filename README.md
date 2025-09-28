@@ -56,5 +56,5 @@ cd APK-Hunter
 
 🧠 **Usage**
 
-python APK-Hunter.py <apk>
+python APK-Hunter.py myapp.apk
 
